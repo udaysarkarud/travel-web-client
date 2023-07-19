@@ -1,0 +1,79 @@
+{
+  "tours": [
+    {
+      "id": "tour1",
+      "name": "City Explorer",
+      "destination": "Cityville",
+      "description": "A guided tour of the city's landmarks and attractions.",
+      "images": [
+        "https://example.com/images/city-explorer-1.jpg",
+        "https://example.com/images/city-explorer-2.jpg",
+        "https://example.com/images/city-explorer-3.jpg",
+        "https://example.com/images/city-explorer-4.jpg",
+        "https://example.com/images/city-explorer-5.jpg"
+      ],
+      "price": 50.0,
+      "duration": "1 day 5 hours"
+    },
+    {
+      "id": "tour2",
+      "name": "Nature Hike",
+      "destination": "Nature Valley",
+      "description": "Explore the scenic trails and enjoy the beauty of nature.",
+      "images": [
+        "https://example.com/images/nature-hike-1.jpg",
+        "https://example.com/images/nature-hike-2.jpg",
+        "https://example.com/images/nature-hike-3.jpg",
+        "https://example.com/images/nature-hike-4.jpg",
+        "https://example.com/images/nature-hike-5.jpg"
+      ],
+      "price": 75.0,
+      "duration": "2 days 3 hours"
+    },
+    {
+      "id": "tour3",
+      "name": "Historical Sites",
+      "destination": "History Town",
+      "description": "Visit historical landmarks and learn about the city's rich history.",
+      "images": [
+        "https://example.com/images/historical-sites-1.jpg",
+        "https://example.com/images/historical-sites-2.jpg",
+        "https://example.com/images/historical-sites-3.jpg",
+        "https://example.com/images/historical-sites-4.jpg",
+        "https://example.com/images/historical-sites-5.jpg"
+      ],
+      "price": 60.0,
+      "duration": "3 days 6 hours"
+    },
+    {
+      "id": "tour4",
+      "name": "Beach Getaway",
+      "destination": "Sunny Beach",
+      "description": "Relax and enjoy the sun, sand, and waves on a beautiful beach.",
+      "images": [
+        "https://example.com/images/beach-getaway-1.jpg",
+        "https://example.com/images/beach-getaway-2.jpg",
+        "https://example.com/images/beach-getaway-3.jpg",
+        "https://example.com/images/beach-getaway-4.jpg",
+        "https://example.com/images/beach-getaway-5.jpg"
+      ],
+      "price": 90.0,
+      "duration": "4 days 8 hours"
+    },
+    {
+      "id": "tour5",
+      "name": "Mountain Expedition",
+      "destination": "Majestic Mountains",
+      "description": "Embark on a thrilling expedition to conquer towering peaks.",
+      "images": [
+        "https://example.com/images/mountain-expedition-1.jpg",
+        "https://example.com/images/mountain-expedition-2.jpg",
+        "https://example.com/images/mountain-expedition-3.jpg",
+        "https://example.com/images/mountain-expedition-4.jpg",
+        "https://example.com/images/mountain-expedition-5.jpg"
+      ],
+      "price": 120.0,
+      "duration": "5 days 2 hours"
+    }
+  ]
+}
