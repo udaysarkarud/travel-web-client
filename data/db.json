@@ -4,7 +4,7 @@
   "articles": [
     {
       "source": {
-        "id": null,
+        "id": 1,
         "name": "Biztoc.com"
       },
       "author": "reuters.com",
@@ -17,7 +17,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 2,
         "name": "SoyaCincau.com"
       },
       "author": "Alexander Wong",
@@ -30,7 +30,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 3,
         "name": "Biztoc.com"
       },
       "author": "barchart.com",
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 4,
         "name": "Biztoc.com"
       },
       "author": "barrons.com",
@@ -55,7 +55,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 5,
         "name": "Biztoc.com"
       },
       "author": "wsj.com",
@@ -68,7 +68,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 6,
         "name": "Yahoo Entertainment"
       },
       "author": "Reuters",
@@ -81,7 +81,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 7,
         "name": "GlobeNewswire"
       },
       "author": "Research and Markets",
@@ -94,7 +94,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 8,
         "name": "Marketscreener.com"
       },
       "author": "Reuters",
@@ -107,7 +107,7 @@
     },
     {
       "source": {
-        "id": "businessinsider",
+        "id": "9",
         "name": "Business Insider"
       },
       "author": "Zahra Tayeb",
@@ -120,7 +120,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 10,
         "name": "GlobeNewswire"
       },
       "author": "Research Nester",
@@ -133,7 +133,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 11,
         "name": "Motley Fool"
       },
       "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
@@ -146,7 +146,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 12,
         "name": "Biztoc.com"
       },
       "author": "barrons.com",
@@ -159,7 +159,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 13,
         "name": "Paul Tan's Automotive News"
       },
       "author": "Mick Chan",
@@ -172,7 +172,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 14,
         "name": "Florida Today"
       },
       "author": "Jamie Groh, Florida Today",
@@ -185,7 +185,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 15,
         "name": "Motley Fool"
       },
       "author": "newsfeedback@fool.com (Sean Williams)",
@@ -198,7 +198,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 16,
         "name": "Insurance Journal"
       },
       "author": "Admin",
@@ -211,7 +211,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 17,
         "name": "IT World Canada"
       },
       "author": "Jim Love",
@@ -224,7 +224,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 18,
         "name": "Notebookcheck.net"
       },
       "author": "Daniel Zlatev",
@@ -237,7 +237,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 10,
         "name": "Biztoc.com"
       },
       "author": "barrons.com",
@@ -250,7 +250,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 20,
         "name": "Biztoc.com"
       },
       "author": "investing.com",
@@ -263,7 +263,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 21,
         "name": "Barron's"
       },
       "author": "Joe Woelfel",
@@ -276,7 +276,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 22,
         "name": "MarketWatch"
       },
       "author": "Jamie Chisholm",
@@ -289,7 +289,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 23,
         "name": "Biztoc.com"
       },
       "author": "benzinga.com",
@@ -302,7 +302,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 24,
         "name": "Biztoc.com"
       },
       "author": "benzinga.com",
@@ -315,7 +315,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 25,
         "name": "SoyaCincau.com"
       },
       "author": "Alexander Wong",
@@ -328,7 +328,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 26,
         "name": "Biztoc.com"
       },
       "author": "investing.com",
@@ -341,7 +341,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 27,
         "name": "Marketscreener.com"
       },
       "author": "Alliance News",
@@ -354,7 +354,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 28,
         "name": "Biztoc.com"
       },
       "author": "marketwatch.com",

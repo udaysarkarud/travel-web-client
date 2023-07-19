@@ -7,6 +7,8 @@ import Blog from "../pages/Blog/Blog";
 import MainLayout from "../layout/MainLayout";
 import Home from "../pages/Home/Home";
 import News from "../pages/News/News";
+import SingleBlog from "../pages/SingleBlog/SingleBlog";
+import blogLoader from "../loaders/blogLoader";
 
 const Router = createBrowserRouter([
   {
@@ -33,7 +35,12 @@ const Router = createBrowserRouter([
       {
         path: "blog",
         element: <Blog />,
-        loader: async () => fetch("./blogcontent.json"),
+        loader: blogLoader,
+      },
+      {
+        path: "blog/:blogId",
+        element: <SingleBlog />,
+        loader: ({ params }) => blogLoader(params),
       },
       {
         path: "contact",

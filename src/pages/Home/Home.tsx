@@ -1,5 +1,3 @@
-import Card from "../../components/Card/Card";
-
 const Home = () => {
   return (
     <div
@@ -23,9 +21,7 @@ const Home = () => {
               </p>
               <button className="btn btn-primary">Get Started</button>
             </div>
-            <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
-              <Card />
-            </div>
+            <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100"></div>
           </div>
         </div>
       </div>

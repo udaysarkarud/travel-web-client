@@ -27,7 +27,7 @@ const Card = ({ blog }: Props) => {
         </h2>
         <p>
           {description.length > 20
-            ? sliceTextToMaxWords(description, 26)
+            ? sliceTextToMaxWords(description, 30)
             : description}
         </p>
         <div className="flex justify-between">
